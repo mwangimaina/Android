@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "447177724725",
+    "firebase_url": "https://financeapp-80a74.firebaseio.com",
+    "project_id": "financeapp-80a74",
+    "storage_bucket": "financeapp-80a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447177724725:android:5560b6794a1a5cc6",
+        "android_client_info": {
+          "package_name": "modcom.joseph.com.applefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447177724725-agqcgp60cbuos5pd6pr47jjughqeh1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwRGQdBYa5ih-Ze_o9YKmy_jr1fOvjZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
